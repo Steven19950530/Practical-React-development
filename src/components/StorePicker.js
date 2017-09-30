@@ -4,10 +4,7 @@ import { getFunName } from '../helpers';
 import '../css/style.css';
 
 class StorePicker extends React.Component {
-    // constructor() {
-    //     super();
-    //     this.goToStore = this.goToStore.bind(this)
-    // }
+
     goToStore(e)  {
         e.preventDefault();
         const storeId = this.storeInput.value
