@@ -1,0 +1,6 @@
+---
+applications:
+- name: FMGordillo-React-Testing
+  memory: 256M
+  buildpack:
+  command: npm start
