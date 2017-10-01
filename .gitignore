@@ -1,4 +1,5 @@
 node_modules/
+npm-packages-offline-cache/
 *.zip
 .DS_Store
 .idea
