@@ -1,6 +1,6 @@
 {
-  "name": "cotd",
-  "version": "0.0.1",
+  "name": "fmgordillo-react-testing",
+  "version": "0.9.0",
   "private": true,
   "proxy": "http://localhost:8081",
   "devDependencies": {

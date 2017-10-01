@@ -44,8 +44,8 @@ class StorePicker extends React.Component {
                 </form>
                 <br/>
                 <form className="store-selector">
-                    <h2 className="store-selector">Existing store</h2>
-                    <p>Just copy this text and paste it above!</p>
+                    <h2>Existing store</h2>
+                    <p>Just copy one of these names and paste it above!</p>
                     {Object.keys(this.state.titles).map(this.renderTitles)}
                 </form>
             </div>
