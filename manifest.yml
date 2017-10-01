@@ -1,5 +1,9 @@
 ---
 applications:
 - name: FMGordillo-React-Testing
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   memory: 128M
+  disk_quota: 256MB
   command: npm run bluemix
+  services:
+    - keys
