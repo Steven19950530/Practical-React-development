@@ -7,7 +7,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "build": "cd ui-react && yarn && yarn build",
+    "build": "cd ui-react && yarn && yarn build"
   },
   "engines": {
     "node": "^6.0.0",
