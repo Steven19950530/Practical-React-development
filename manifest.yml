@@ -1,6 +1,5 @@
 ---
 applications:
 - name: FMGordillo-React-Testing
-  memory: 256M
-  buildpack:
-  command: npm start
+  memory: 128M
+  command: npm run bluemix
