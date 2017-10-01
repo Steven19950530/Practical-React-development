@@ -5,3 +5,4 @@ npm-packages-offline-cache/
 .idea
 build
 keys.json
+.env
