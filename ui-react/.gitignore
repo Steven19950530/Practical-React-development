@@ -1,5 +1,4 @@
 node_modules/
-.vscode/
 npm-packages-offline-cache/
 *.zip
 .DS_Store

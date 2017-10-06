@@ -4,6 +4,6 @@ applications:
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   memory: 128M
   disk_quota: 256MB
-  command: npm run bluemix
+  command: node index.js
   services:
     - keys
