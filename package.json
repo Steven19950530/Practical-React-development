@@ -19,6 +19,9 @@
     "react-native-web": "^0.1.6",
     "react-router": "4.0.0-alpha.4"
   },
+  "devDependencies": {
+    "react-scripts": "^1.0.14"
+  },
   "lint-staged": {
     "src/**/*.{js,jsx,json,css}": [
       "prettier --single-quote --write",
