@@ -18,7 +18,7 @@
     "react-dom": "^16.0.1",
     "react-native-web": "^0.1.6",
     "react-router": "4.0.0-alpha.4",
-    "snyk": "^1.342.2"
+    "snyk": "^1.345.0"
   },
   "devDependencies": {
     "babel-preset-env": "^1.6.0",
