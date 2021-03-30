@@ -53,8 +53,7 @@
     "extends": "./node_modules/react-scripts/.eslintrc"
   },
   "engines": {
-    "node": "^6.0.0",
-    "npm": "^5.0.0"
+    "node": "14.16.0"
   },
   "snyk": true
 }
